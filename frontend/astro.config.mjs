@@ -13,7 +13,7 @@ export default defineConfig({
 	},
 	prefetch: true,
 	trailingSlash: "never",
-	site: SITE_URL,
+	site: 'https://adrian-ruggeri.github.io',
 	integrations: [sitemap()],
 	image: {
 		domains: ["cdn.sanity.io"],
